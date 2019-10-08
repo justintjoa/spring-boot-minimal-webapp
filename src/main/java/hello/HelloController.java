@@ -9,7 +9,7 @@ public class HelloController {
     public String index() {
     	String html = "<h1>Hello World!</h1>\n" +
    	 "<p>This web app is powered by \n" +
-    	"<a href='https://github.com/mygithubid/spring-boot-minimal-webapp'>this github repo</a></p>\n";
+    	"<a href='https://github.com/justintjoa/spring-boot-minimal-webapp'>this github repo</a></p>\n";
 	return html;
      }
 }
